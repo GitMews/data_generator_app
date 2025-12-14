@@ -1,0 +1,12 @@
+## Virtual environment
+env/
+
+# Python basics
+__pycache__/
+*.pyc
+
+# Config file
+config.ini
+
+# Script logs
+*.log
